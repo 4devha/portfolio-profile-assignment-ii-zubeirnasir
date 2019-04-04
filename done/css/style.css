@@ -1,0 +1,181 @@
+body {
+    margin: 0;
+}
+
+
+/* Header */
+.container {
+
+    border-top: 7px black solid;
+   width: 100%;
+   margin: 0;
+}
+
+
+
+.header {
+    height: auto;
+}
+
+.body {
+    height: auto;
+}
+
+#nav
+{
+
+     max-width: 100%;
+    min-width: 190px;
+    /* border-bottom: 1px black solid; */
+   
+    
+
+}
+.Name
+{
+    font-size: 20px;
+    /* text-align: center; */
+    margin-right: 200PX;
+   
+  
+}
+
+#nav h2 
+{
+    background-color: burlywood;
+    width: 150px;
+}
+
+#nav ul
+{
+  
+   
+    min-width: 100px;
+    margin-left: 40%;
+    margin-top: -38px;
+   
+
+}
+
+#nav li
+{   
+    display: inline;
+    margin-left: 10px;
+   
+}
+#nav a
+{
+    text-decoration: none;
+    color: darkgray;
+    font-size: 16px;
+}
+
+  
+
+
+
+
+  /* Body */
+
+  .main
+  {
+      border-top: 1px black solid;
+      background-image: url(images/pic.PNG);
+     
+      
+  
+  }
+  
+
+  .s1 img
+  {
+   
+      max-width: 200px;
+      float: right;
+      margin-right: 20%;
+      margin-top: -10px;
+      border-radius: 300px;
+  }
+  
+  .s1 {
+      margin-top: 50px;
+      height: auto;
+  }
+  
+  .s1 p
+  {
+     margin-left: 20%; 
+     font-size: 23px;
+     margin-bottom: 50px;
+     padding: 0px;
+     
+  }
+  
+  .s1 h3
+  {   
+      
+      background-color: rgb(199, 33, 241);
+      color: white;
+      max-width: 320px;
+      margin-top: 10px;
+      font-size: 21px;
+      margin-left: 20%; 
+  }
+  
+  span
+  {
+      font-size: 15px;
+  }
+  
+  
+  
+  
+  #port
+  
+  {
+      text-align: center;
+      color: gray;
+  }
+  figure img
+  {
+  margin-left: 20px;
+  }
+  
+  #recent
+  {
+      margin-right: 360px;
+      font-size: 10px;
+  }
+  .foot
+  
+  
+  {
+      background-color: black;
+  text-align: center;
+  padding: 10px;
+  color: gray;
+  
+  }
+  
+  
+  
+  .foot p
+  {
+      display: inline;
+  
+      line-height: 70px;
+      text-align: center;
+    max-width: 800px;
+    font-size: 15px;
+  }
+  
+  
+  #foot a
+  {
+      text-decoration: none;
+      color: darkgray;
+   
+  }
+  
+
+
